@@ -36,5 +36,5 @@ The project showcases data cleaning, exploratory data analysis (EDA), visualizat
 
 ---
 
-## 📂 Repository Structure
+
 
